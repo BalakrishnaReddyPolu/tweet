@@ -1,0 +1,22 @@
+.crusor-pointer{
+  cursor: pointer;
+}
+
+.contenwrapper{
+  display: flex;
+  flex-direction: row;
+}
+.spacer{
+  flex-grow: 1;
+}
+.displayflex{
+  display: flex;
+}
+.displayflexcoloum{
+  display: flex;
+  flex-direction: column;
+}
+
+.border0{
+  border: 0px !important;
+}
