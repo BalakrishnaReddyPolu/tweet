@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/tweet/static/js/runtime~main.8264764c.js"
   },
   {
-    "revision": "5342d1087b2a9583cd37",
-    "url": "/tweet/static/js/main.3c1db808.chunk.js"
+    "revision": "91d86f8582ab21b655d8",
+    "url": "/tweet/static/js/main.7e335a1d.chunk.js"
   },
   {
     "revision": "9145f153e8cd9697355f",
     "url": "/tweet/static/js/2.14ab709c.chunk.js"
   },
   {
-    "revision": "5342d1087b2a9583cd37",
+    "revision": "91d86f8582ab21b655d8",
     "url": "/tweet/static/css/main.0b13b8dc.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/tweet/static/css/2.b20903e6.chunk.css"
   },
   {
-    "revision": "283abec10f700dbfe957d1bd482a0f42",
+    "revision": "ea987757c3a2d68d6940073f341342f6",
     "url": "/tweet/index.html"
   }
 ];
