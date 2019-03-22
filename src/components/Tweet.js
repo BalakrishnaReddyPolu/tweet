@@ -7,7 +7,7 @@ const Tweet = (props)=>(
         <div className="cardImg"></div>
         <div className="cardcontent ml-3">
             <div className="carddetails">
-                <div className="m-1"><a><strong>Balakrishna Reddy</strong></a></div>
+                <div className="m-1"><a><strong>polu</strong></a></div>
                 <div className="m-1"><a>@Polu</a></div>
                 <div className="m-1">{$.timeago(props.tweet.time)}</div>
                 <div className="spacer m-1"></div>
